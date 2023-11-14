@@ -1,0 +1,31 @@
+bdy {
+  background-color: #19172c;
+}
+
+.app-container{
+  display: flex;
+}
+
+.content{
+  width: 100%;
+}
+
+.sidebar{
+  min-height: 800px; 
+}
+
+.post-card{
+  margin: 20px 50px;
+}
+
+.tag{
+  margin: 0 3px;
+}
+
+.reactions{
+  margin: 15px 0 0 0;
+}
+
+.create-post{
+  margin: 30px 50px;
+}
