@@ -29,3 +29,7 @@ bdy {
 .create-post{
   margin: 30px 50px;
 }
+
+.noPosts {
+  margin: 100px 0;
+}
