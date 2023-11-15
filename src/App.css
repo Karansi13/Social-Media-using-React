@@ -33,3 +33,7 @@ bdy {
 .noPosts {
   margin: 100px 0;
 }
+
+.spinner{
+  margin: 10%;
+}
